@@ -45,7 +45,6 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ksat8384&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ksat8384&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
