@@ -30,6 +30,10 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ksat8384-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ksat8384)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg
 
 
 
