@@ -30,7 +30,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I read articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ksat8384)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ksat8384-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ksat8384)
 
 
 
