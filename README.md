@@ -29,7 +29,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :seedling: Exploring Full Stack development.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ksattask-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ksattask)
-- ![LeetCode Stats](https://leetcode.com/u/ksattask)
+- ![LeetCode Stats]](https://jacoblin.cool)](https://leetcode.com/u/ksattask/)
 
 ---
 
