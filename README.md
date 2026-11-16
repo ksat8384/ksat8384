@@ -31,7 +31,7 @@ Architecting high-availability cross-platform ecosystems, micro-frontend framewo
 * **Cross-Platform & Frontend Systems:** React Native, React, TypeScript, Native Android (Kotlin), Micro-Frontends, Shared SDKs
 
 #### Engineering Leadership & Impact
-* **Multi-App Platform Architecture:** Designed unified mobile and web architectures powering 9+ mission-critical logistics and supply chain applications across North America with 99.9% uptime.
+* **Multi-App Platform Architecture:** Designed mobile and web architectures powering 9+ mission-critical logistics and supply chain applications across North America with 99.9% uptime.
 * **Release & Build Optimization:** Standardized multi-branch Git workflows, product flavors, and automated CI/CD pipelines, accelerating release velocity by 20%.
 * **Application Reliability & Telemetry:** Led large-scale native-to-Kotlin/React Native migrations and observability-driven performance tuning, cutting production crash rates by 15%.
 
