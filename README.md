@@ -36,10 +36,9 @@ Architecting high-availability cross-platform ecosystems, micro-frontend framewo
 * **Application Reliability & Telemetry:** Led large-scale native-to-Kotlin/React Native migrations and observability-driven performance tuning, cutting production crash rates by 15%.
 
 ---
-
 - :seedling: Exploring AI.
-
-- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-ksattask-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ksattask)
+  
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ksattask-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ksattask)
 
 - [![LeetCode Stats](https://leetcard.jacoblin.cool/ksattask)](https://leetcode.com/u/ksattask/)
 
