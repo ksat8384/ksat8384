@@ -44,6 +44,7 @@ Architecting high-availability cross-platform ecosystems, micro-frontend framewo
 - :seedling: Exploring AI.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ksattask-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ksattask)
+
 - [![LeetCode Stats](https://leetcard.jacoblin.cool/ksattask)](https://leetcode.com/u/ksattask/)
 
 
