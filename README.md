@@ -22,9 +22,24 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Principal Mobile & Web Architect | Distributed Client Systems, Micro-Frontends & Cross-Platform Infrastructure (15+ Yrs) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+### Sathish Kumar Krishnan
+**Principal Mobile & Web Architect** | Chennai, India
 
-- :telescope: I worked as a Technical Architect.
+Architecting high-availability cross-platform ecosystems, micro-frontend frameworks, and resilient mobile infrastructure for enterprise scale.
+
+---
+
+#### Core Architectural Focus
+* **Cross-Platform & Mobile Systems:** React Native, Native Android (Kotlin/Java), Offline-First Sync Engines, Shared SDKs
+* **Web & Frontend Infrastructure:** React, TypeScript, Micro-Frontends, Design Systems, Performance Optimization
+* **Cloud, DevOps & Observability:** Kubernetes, Docker, Multi-Market CI/CD Pipelines, Dynatrace, New Relic
+
+#### Engineering Leadership & Impact
+* **Multi-App Platform Architecture:** Designed unified mobile and web architectures powering 9+ mission-critical logistics and supply chain applications across North America with 99.9% uptime.
+* **Release & Build Optimization:** Standardized multi-branch Git workflows, product flavors, and automated CI/CD pipelines, accelerating release velocity by 20%.
+* **Application Reliability & Telemetry:** Led large-scale native-to-Kotlin/React Native migrations and observability-driven performance tuning, cutting production crash rates by 15%.
+
+---
 
 - :seedling: Exploring AI.
 
