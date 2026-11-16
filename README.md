@@ -48,6 +48,8 @@ Architecting high-availability cross-platform ecosystems, micro-frontend framewo
 
 ### :hammer_and_wrench: Tech stack :
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-line.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodeJS" alt="nodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -58,9 +60,7 @@ Architecting high-availability cross-platform ecosystems, micro-frontend framewo
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite"  alt="Sqlite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-line.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;</div>
-     
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</div>
+    
 
 ---
