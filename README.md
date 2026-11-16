@@ -22,11 +22,11 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Principal Mobile & Web Architect | Distributed Client Systems, Micro-Frontends & Cross-Platform Infrastructure (15+ Yrs) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend applications.
+- :telescope: I worked as a Technical Architect.
 
-- :seedling: Exploring Full Stack development.
+- :seedling: Exploring AI.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ksattask-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ksattask)
 - [![LeetCode Stats](https://leetcard.jacoblin.cool/ksattask)](https://leetcode.com/u/ksattask/)
