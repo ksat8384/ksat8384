@@ -30,9 +30,9 @@ Architecting high-availability cross-platform ecosystems, micro-frontend framewo
 ---
 
 #### Core Architectural Focus
-* **Cross-Platform & Mobile Systems:** React Native, Native Android (Kotlin/Java), Offline-First Sync Engines, Shared SDKs
-* **Web & Frontend Infrastructure:** React, TypeScript, Micro-Frontends, Design Systems, Performance Optimization
-* **Cloud, DevOps & Observability:** Kubernetes, Docker, Multi-Market CI/CD Pipelines, Dynatrace, New Relic
+* **Distributed Systems & Edge-to-Cloud Sync:** Idempotent APIs, Event-Driven Architecture, Eventual Consistency, Offline-First Outbox Engines, Distributed Tracing
+* **Cloud-Native Infrastructure & Resilience:** Kubernetes (K8s), Docker, Multi-Region Deployments, Circuit Breakers, Canary Rollouts, Dynatrace / New Relic
+* **Cross-Platform & Frontend Systems:** React Native, React, TypeScript, Native Android (Kotlin), Micro-Frontends, Shared SDKs
 
 #### Engineering Leadership & Impact
 * **Multi-App Platform Architecture:** Designed unified mobile and web architectures powering 9+ mission-critical logistics and supply chain applications across North America with 99.9% uptime.
