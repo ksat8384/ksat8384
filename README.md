@@ -19,23 +19,29 @@
 
 ### :man_technologist: About Me :
 ### Sathish Kumar Krishnan
-**Principal Mobile & Web Architect** | Chennai, India
+### Principal Full-Stack Architect | Chennai, India
 
-Architecting high-availability cross-platform ecosystems, micro-frontend frameworks, and resilient mobile infrastructure for enterprise scale.
+Architecting end-to-end distributed web and mobile systems, event-driven data pipelines, and resilient cloud-native infrastructure for enterprise scale.
+
+---
+
+### 🏗️ Core Architectural Focus
+
+* **Backend & Distributed Systems:** Event-Driven Architecture, Apache Kafka, Idempotent APIs, Eventual Consistency, Offline-First Outbox Engines, Distributed Tracing
+* **Data & Caching Layer:** PostgreSQL, MongoDB, Redis
+* **Frontend & Cross-Platform:** React, TypeScript, Micro-Frontends, React Native, Native Android (Kotlin), Shared SDKs
+* **Cloud-Native & Resilience:** Kubernetes (K8s), Docker, Multi-Region Deployments, CI/CD Automation, Circuit Breakers, Canary Rollouts, Dynatrace, New Relic
 
 ---
 
-#### Core Architectural Focus
-* **Distributed Systems & Edge-to-Cloud Sync:** Idempotent APIs, Event-Driven Architecture, Eventual Consistency, Offline-First Outbox Engines, Distributed Tracing
-* **Cloud-Native Infrastructure & Resilience:** Kubernetes (K8s), Docker, Multi-Region Deployments, Circuit Breakers, Canary Rollouts, Dynatrace / New Relic
-* **Cross-Platform & Frontend Systems:** React Native, React, TypeScript, Native Android (Kotlin), Micro-Frontends, Shared SDKs
+### 🚀 Engineering Leadership & Impact
 
-#### Engineering Leadership & Impact
-* **Multi-App Platform Architecture:** Designed mobile and web architectures powering 9+ mission-critical logistics and supply chain applications across North America with 99.9% uptime.
-* **Release & Build Optimization:** Standardized multi-branch Git workflows, product flavors, and automated CI/CD pipelines, accelerating release velocity by 20%.
-* **Application Reliability & Telemetry:** Led large-scale native-to-Kotlin/React Native migrations and observability-driven performance tuning, cutting production crash rates by 15%.
+* **End-to-End Platform Architecture:** Architected event-driven full-stack web, mobile, and Kafka-backed data ecosystems powering **9+ mission-critical logistics and supply chain applications** across North America with **99.9% uptime**.
+* **Release & Infrastructure Optimization:** Standardized multi-branch Git workflows, product flavors, and automated CI/CD pipelines across client and server stacks, **accelerating release velocity by 20%**.
+* **System Reliability & Telemetry:** Led full-stack performance tuning, distributed caching, and observability-driven migrations across React/React Native and backend services, **cutting production failure and crash rates by 15%**.
 
 ---
+
 - :seedling: Exploring AI.
   
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ksattask-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ksattask)
