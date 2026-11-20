@@ -19,26 +19,25 @@
 
 ### :man_technologist: About Me :
 ### Sathish Kumar Krishnan
-### Principal Full-Stack Architect | Chennai, India
+### Principal Mobile & Web Architect | Full-Stack Systems | Chennai, India
 
-Architecting end-to-end distributed web and mobile systems, event-driven data pipelines, and resilient cloud-native infrastructure for enterprise scale.
-
----
-
-### 🏗️ Core Architectural Focus
-
-* **Backend & Distributed Systems:** Event-Driven Architecture, Apache Kafka, Idempotent APIs, Eventual Consistency, Offline-First Outbox Engines, Distributed Tracing
-* **Data & Caching Layer:** PostgreSQL, MongoDB, Redis
-* **Frontend & Cross-Platform:** React, TypeScript, Micro-Frontends, React Native, Native Android (Kotlin), Shared SDKs
-* **Cloud-Native & Resilience:** Kubernetes (K8s), Docker, Multi-Region Deployments, CI/CD Automation, Circuit Breakers, Canary Rollouts, Dynatrace, New Relic
+Architecting high-availability cross-platform ecosystems, micro-frontend frameworks, and resilient edge-to-cloud applications for enterprise scale.
 
 ---
 
-### 🚀 Engineering Leadership & Impact
+### 🏗️ Technical & Architectural Expertise
 
-* **End-to-End Platform Architecture:** Architected full-stack web and mobile ecosystems powering **9+ mission-critical logistics and supply chain applications** across North America with **99.9% uptime**.
-* **Release & Infrastructure Optimization:** Standardized multi-branch Git workflows, product flavors, and automated CI/CD pipelines across client and server stacks, **accelerating release velocity by 20%**.
-* **System Reliability & Telemetry:** Led full-stack performance tuning, distributed caching, and observability-driven migrations across React/React Native and backend services, **cutting production failure and crash rates by 15%**.
+* **Frontend & Cross-Platform (Core Production):** React, TypeScript, Micro-Frontends, React Native, Native Android (Kotlin), Shared SDKs, Offline-First Outbox Engines
+* **Cloud-Native, DevOps & Observability:** Kubernetes (K8s), Docker, CI/CD Automation, Multi-Region Deployments, Canary Rollouts, Dynatrace, New Relic
+* **Backend, Data & Distributed Systems:** Event-Driven Architecture, Apache Kafka, PostgreSQL, MongoDB, Redis, Idempotent APIs, Eventual Consistency, Circuit Breakers, Distributed Tracing
+
+---
+
+### 🚀 Engineering Leadership & Proven Impact
+
+* **Multi-App Platform Architecture:** Designed mobile and web architectures powering **9+ mission-critical logistics and supply chain applications** across North America with **99.9% uptime**.
+* **Release & Build Optimization:** Standardized multi-branch Git workflows, product flavors, and automated CI/CD pipelines, **accelerating release velocity by 20%**.
+* **Application Reliability & Telemetry:** Led large-scale native-to-Kotlin/React Native migrations and observability-driven performance tuning, **cutting production crash rates by 15%**.
 
 ---
 
