@@ -36,7 +36,7 @@ Architecting end-to-end distributed web and mobile systems, event-driven data pi
 
 ### 🚀 Engineering Leadership & Impact
 
-* **End-to-End Platform Architecture:** Architected event-driven full-stack web, mobile, and Kafka-backed data ecosystems powering **9+ mission-critical logistics and supply chain applications** across North America with **99.9% uptime**.
+* **End-to-End Platform Architecture:** Architected full-stack web and mobile ecosystems powering **9+ mission-critical logistics and supply chain applications** across North America with **99.9% uptime**.
 * **Release & Infrastructure Optimization:** Standardized multi-branch Git workflows, product flavors, and automated CI/CD pipelines across client and server stacks, **accelerating release velocity by 20%**.
 * **System Reliability & Telemetry:** Led full-stack performance tuning, distributed caching, and observability-driven migrations across React/React Native and backend services, **cutting production failure and crash rates by 15%**.
 
